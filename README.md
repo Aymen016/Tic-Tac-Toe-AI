@@ -1,6 +1,8 @@
 # Tic-Tac-Toe with AI (Alpha-Beta Pruning) 🎮🤖
-
-![image_resized](https://github.com/user-attachments/assets/aed92adb-8abf-4c21-a000-783dbcabc54d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aed92adb-8abf-4c21-a000-783dbcabc54d" alt="Image 1" width="40%" />
+  <img src= "https://github.com/user-attachments/assets/c175fe40-bc8a-45c7-aa18-9530a6c4ae5d" alt="Image 2" width="40%" />
+</p>
 
 Welcome to **Tic-Tac-Toe with AI**, a console-based game where you can challenge an intelligent AI opponent powered by the Minimax algorithm with Alpha-Beta Pruning. The AI is designed to play optimally and provide a challenging gameplay experience.
 
